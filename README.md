@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">Backend developer from Kyrgyzstan</h3>
 <h3 align="left">About me:</h3>
-
+<h4>
+  
 - 💼 Backend Engineer at a pharmacy company PharmaLek
 - 🌱 I’m currently learning - ASP.NET Core Security / about web security in general
+- 🎾 My hobby is game development and CTF
+</h4>
 
 
 
