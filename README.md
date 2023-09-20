@@ -32,8 +32,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange)](https://git.io/streak-stats)
 
 ****
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:   </h3>
 
-  
-</p>
+
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin/CC5500" />](https://www.google.com/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/CC5500" />](https://www.google.com/)  [
+<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/CC5500" />](https://www.google.com/)
+
+
