@@ -5,12 +5,7 @@
 - 💼 Backend Engineer at a pharmacy company PharmaLek
 - 🌱 I’m currently learning - ASP.NET Core Security / about web security in general
 
-****
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-  
-</p>
 
 ****
 <h3 align="left">Languages and Tools:</h3>
@@ -31,5 +26,11 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/CC5500" />
 </p>
 
-****
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange)](https://git.io/streak-stats)
+
+****
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+  
+</p>
