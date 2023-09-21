@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">
+  Hi 👋, I'm Arthur
+</h1>
+ 
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=800&color=CC5500&center=true&width=435&lines=junior+backend+developer+;amateur+sys+admin;always+learning+new+things;5%2B+years+of+coding" alt="Typing SVG" /></a>
 </p>
   
-</h3>
 <h3 align="left">About me:</h3>
-<h4>
+<p>
+
   
 - 💼 Backend Engineer at a pharmacy company PharmaLek
 - 🌱 I’m currently learning - ASP.NET Core Security / about web security in general
 - 🎾 My hobby is game development and CTF
-</h4>
+</p>
+  
 
 
 
