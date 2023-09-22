@@ -42,6 +42,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drarthurgdev&bg_color=0d1117&color=cc5500&line=21262d&point=cc5500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ****
 <h3 align="left">Connect with me:   </h3>
 
