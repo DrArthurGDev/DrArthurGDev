@@ -10,9 +10,6 @@
 </picture>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=800&color=CC5500&center=true&width=435&lines=junior+backend+developer+;amateur+sys+admin;always+learning+new+things;5%2B+years+of+coding" alt="Typing SVG" /></a>
-</p>
   
 <h3 align="left">About me:</h3>
 <p>
@@ -99,7 +96,7 @@
 <p align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=solarized-light">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=buefy">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange">
 </picture>
 </p>
@@ -112,53 +109,14 @@
 </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Docker/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Linux/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/CC5500" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/godotengine/CC5500" /> 
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drarthurgdev&bg_color=0d1117&color=cc5500&line=21262d&point=cc5500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ****
 <h3 align="left">Connect with me:   </h3>
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Linkedin/CC5500">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/Linkedin/105493">
-  
-  [<img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin/CC5500" />](https://www.google.com/)
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/CC5500">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/105493">
-  
-  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/CC5500" />](https://www.google.com/)
-</picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/CC5500">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/105493">
-    
-  [<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/CC5500" />](mailto:ArtDevEng@gmail.com)
-</picture>
-</p>
 
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin/CC5500" />](https://www.google.com/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/CC5500" />](https://www.google.com/)  [
-<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/CC5500" />](mailto:ArtDevEng@gmail.com)
+
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin/" />](https://www.google.com/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/" />](https://www.google.com/)  [
+<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/" />](mailto:ArtDevEng@gmail.com)
 
 
