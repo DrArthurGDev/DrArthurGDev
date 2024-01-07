@@ -18,7 +18,14 @@
 - 🎾 My hobby is game development and CTF
 </p>
   
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/csharp/df73ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/csharp/CC3300">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://cdn.simpleicons.org/csharp/">
+</picture>
 
+</p>
 
 
 ****
