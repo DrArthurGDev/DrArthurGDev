@@ -116,7 +116,7 @@
 
 
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin/" />](www.linkedin.com/in/arthurgdev/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/" />](https://www.google.com/)  [
+[<img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin/" />](https://www.linkedin.com/in/arthurgdev/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/" />](https://www.google.com/)  [
 <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/" />](mailto:ArtDevEng@gmail.com)
 
 
