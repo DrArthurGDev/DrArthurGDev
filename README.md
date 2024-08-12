@@ -15,7 +15,7 @@
 <p>
 
   
-- 💼 Backend Engineer at a pharmacy company PharmaLek
+- 💼 Backend Engineer at the law company Debtus
 - 🌱 I’m currently learning - ASP.NET Core Security / about web security in general
 - 🎾 My hobby is game development and CTF
 </p>
