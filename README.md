@@ -95,8 +95,8 @@
 
 <p align="left">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=buefy">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&exclude_days=Sun%2CSat&theme=shadow-orange">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&exclude_days=Sun%2CSat&theme=buefy">
   <img alt=" " src="https://github-readme-streak-stats.herokuapp.com?user=drarthurgdev&theme=shadow-orange">
 </picture>
 </p>
